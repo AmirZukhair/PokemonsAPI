@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/AmirZukhair/PokemonsAPI/static/css/main.df4d8cdd.chunk.css",
+    "main.js": "/AmirZukhair/PokemonsAPI/static/js/main.b35a1d64.chunk.js",
+    "main.js.map": "/AmirZukhair/PokemonsAPI/static/js/main.b35a1d64.chunk.js.map",
+    "runtime-main.js": "/AmirZukhair/PokemonsAPI/static/js/runtime-main.d78e04fd.js",
+    "runtime-main.js.map": "/AmirZukhair/PokemonsAPI/static/js/runtime-main.d78e04fd.js.map",
+    "static/js/2.2d63c8b4.chunk.js": "/AmirZukhair/PokemonsAPI/static/js/2.2d63c8b4.chunk.js",
+    "static/js/2.2d63c8b4.chunk.js.map": "/AmirZukhair/PokemonsAPI/static/js/2.2d63c8b4.chunk.js.map",
+    "index.html": "/AmirZukhair/PokemonsAPI/index.html",
+    "precache-manifest.ca2e0ecf45994a12bed66341736cf46b.js": "/AmirZukhair/PokemonsAPI/precache-manifest.ca2e0ecf45994a12bed66341736cf46b.js",
+    "service-worker.js": "/AmirZukhair/PokemonsAPI/service-worker.js",
+    "static/css/main.df4d8cdd.chunk.css.map": "/AmirZukhair/PokemonsAPI/static/css/main.df4d8cdd.chunk.css.map",
+    "static/js/2.2d63c8b4.chunk.js.LICENSE.txt": "/AmirZukhair/PokemonsAPI/static/js/2.2d63c8b4.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/AmirZukhair/PokemonsAPI/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d78e04fd.js",
+    "static/js/2.2d63c8b4.chunk.js",
+    "static/css/main.df4d8cdd.chunk.css",
+    "static/js/main.b35a1d64.chunk.js"
+  ]
+}
