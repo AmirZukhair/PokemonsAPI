@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/AmirZukhair/PokemonsAPI/static/css/main.df4d8cdd.chunk.css",
-    "main.js": "/AmirZukhair/PokemonsAPI/static/js/main.cda44b52.chunk.js",
-    "main.js.map": "/AmirZukhair/PokemonsAPI/static/js/main.cda44b52.chunk.js.map",
-    "runtime-main.js": "/AmirZukhair/PokemonsAPI/static/js/runtime-main.d78e04fd.js",
-    "runtime-main.js.map": "/AmirZukhair/PokemonsAPI/static/js/runtime-main.d78e04fd.js.map",
-    "static/js/2.2d63c8b4.chunk.js": "/AmirZukhair/PokemonsAPI/static/js/2.2d63c8b4.chunk.js",
-    "static/js/2.2d63c8b4.chunk.js.map": "/AmirZukhair/PokemonsAPI/static/js/2.2d63c8b4.chunk.js.map",
-    "index.html": "/AmirZukhair/PokemonsAPI/index.html",
-    "precache-manifest.b5278b30a9158957a89913c1af289ed9.js": "/AmirZukhair/PokemonsAPI/precache-manifest.b5278b30a9158957a89913c1af289ed9.js",
-    "service-worker.js": "/AmirZukhair/PokemonsAPI/service-worker.js",
-    "static/css/main.df4d8cdd.chunk.css.map": "/AmirZukhair/PokemonsAPI/static/css/main.df4d8cdd.chunk.css.map",
-    "static/js/2.2d63c8b4.chunk.js.LICENSE.txt": "/AmirZukhair/PokemonsAPI/static/js/2.2d63c8b4.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/AmirZukhair/PokemonsAPI/static/media/logo.5d5d9eef.svg"
+    "main.css": "/PokemonsAPI/static/css/main.df4d8cdd.chunk.css",
+    "main.js": "/PokemonsAPI/static/js/main.02bdf75d.chunk.js",
+    "main.js.map": "/PokemonsAPI/static/js/main.02bdf75d.chunk.js.map",
+    "runtime-main.js": "/PokemonsAPI/static/js/runtime-main.d83ce9d5.js",
+    "runtime-main.js.map": "/PokemonsAPI/static/js/runtime-main.d83ce9d5.js.map",
+    "static/js/2.2d63c8b4.chunk.js": "/PokemonsAPI/static/js/2.2d63c8b4.chunk.js",
+    "static/js/2.2d63c8b4.chunk.js.map": "/PokemonsAPI/static/js/2.2d63c8b4.chunk.js.map",
+    "index.html": "/PokemonsAPI/index.html",
+    "precache-manifest.01484f851e33ec89004bbc85810f856d.js": "/PokemonsAPI/precache-manifest.01484f851e33ec89004bbc85810f856d.js",
+    "service-worker.js": "/PokemonsAPI/service-worker.js",
+    "static/css/main.df4d8cdd.chunk.css.map": "/PokemonsAPI/static/css/main.df4d8cdd.chunk.css.map",
+    "static/js/2.2d63c8b4.chunk.js.LICENSE.txt": "/PokemonsAPI/static/js/2.2d63c8b4.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/PokemonsAPI/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.d78e04fd.js",
+    "static/js/runtime-main.d83ce9d5.js",
     "static/js/2.2d63c8b4.chunk.js",
     "static/css/main.df4d8cdd.chunk.css",
-    "static/js/main.cda44b52.chunk.js"
+    "static/js/main.02bdf75d.chunk.js"
   ]
 }
